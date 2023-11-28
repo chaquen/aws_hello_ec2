@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BUkCk3BUpPF2BSd3zcXe4gafO4pAzISIP5aqaK9lHtg=",
+  "Source": "hello_ec2",
+  "BasePath": "_content/hello_ec2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
