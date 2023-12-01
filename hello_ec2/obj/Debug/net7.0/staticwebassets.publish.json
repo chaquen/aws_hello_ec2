@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1Hz2+4Fsjv16V1q5juFj7rTZG4Rg1rk51EdNFE1rz5U=",
+  "Source": "hello_ec2",
+  "BasePath": "_content/hello_ec2",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

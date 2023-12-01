@@ -1,0 +1,12 @@
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\hello_ec2.exe
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\appsettings.Development.json
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\appsettings.json
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\hello_ec2.dll
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\hello_ec2.deps.json
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\hello_ec2.runtimeconfig.json
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\hello_ec2.pdb
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\Microsoft.AspNetCore.OpenApi.dll
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\Microsoft.OpenApi.dll
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\Swashbuckle.AspNetCore.Swagger.dll
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Personal\AWS\ArquitectAssociate\practice aws\hello ec2\app\Swashbuckle.AspNetCore.SwaggerUI.dll
