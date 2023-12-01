@@ -1,0 +1,17 @@
+[Unit]
+Description=.Net Web Api Example
+
+[Service]
+WorkingDIrectory=/var/wwww/
+ExecStart=/usr/bin/dotnet /var/wwww/hello_ec2.dll    
+Restart=always
+# Restart service after 10 seconds when dotnet service crashes
+RestartSec=10
+KillSignal=SIGINT
+SyslogIdentifier=hello_ec2
+Enviroment=ASPNETCORE_ENVIROMENT=Production
+Enviroment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
+Enviroment=ASPNETCORE_URLS=http://*:80
+
+[Install]
+WantedBy=multi-user.target
